@@ -1,4 +1,3 @@
-// Package extras provides extra Tengo modules.
 package extras
 
 import (

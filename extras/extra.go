@@ -1,4 +1,4 @@
-// Package extras contains extra Tengo modules.
+// Package extras provides extra Tengo modules.
 package extras
 
 import (

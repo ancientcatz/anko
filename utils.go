@@ -1,4 +1,3 @@
-// Package anko contains utility functions.
 package anko
 
 import (
